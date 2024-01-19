@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2023.12.15)  9 JAN 2024 18:56
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2023.12.15)  17 JAN 2024 22:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -774,32 +774,105 @@ rounded.sty)
 whale.sty)
 (C:\Users\Dinan\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamercolortheme
 orchid.sty))
+(C:\Users\Dinan\AppData\Local\Programs\MiKTeX\tex/latex/cancel\cancel.sty
+Package: cancel 2013/04/12 v2.2 Cancel math terms
+)
+(C:\Users\Dinan\AppData\Local\Programs\MiKTeX\tex/latex/tools\multicol.sty
+Package: multicol 2023/03/30 v1.9f multicolumn formatting (FMi)
+\c@tracingmulticols=\count336
+\mult@box=\box76
+\multicol@leftmargin=\dimen294
+\c@unbalance=\count337
+\c@collectmore=\count338
+\doublecol@number=\count339
+\multicoltolerance=\count340
+\multicolpretolerance=\count341
+\full@width=\dimen295
+\page@free=\dimen296
+\premulticols=\dimen297
+\postmulticols=\dimen298
+\multicolsep=\skip65
+\multicolbaselineskip=\skip66
+\partial@page=\box77
+\last@line=\box78
+\mc@boxedresult=\box79
+\maxbalancingoverflow=\dimen299
+\mult@rightbox=\box80
+\mult@grightbox=\box81
+\mult@firstbox=\box82
+\mult@gfirstbox=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\@tempa=\box89
+\@tempa=\box90
+\@tempa=\box91
+\@tempa=\box92
+\@tempa=\box93
+\@tempa=\box94
+\@tempa=\box95
+\@tempa=\box96
+\@tempa=\box97
+\@tempa=\box98
+\@tempa=\box99
+\@tempa=\box100
+\@tempa=\box101
+\@tempa=\box102
+\@tempa=\box103
+\@tempa=\box104
+\@tempa=\box105
+\@tempa=\box106
+\@tempa=\box107
+\@tempa=\box108
+\@tempa=\box109
+\@tempa=\box110
+\@tempa=\box111
+\@tempa=\box112
+\@tempa=\box113
+\@tempa=\box114
+\@tempa=\box115
+\@tempa=\box116
+\@tempa=\box117
+\@tempa=\box118
+\@tempa=\box119
+\c@minrows=\count342
+\c@columnbadness=\count343
+\c@finalcolumnbadness=\count344
+\last@try=\dimen300
+\multicolovershoot=\dimen301
+\multicolundershoot=\dimen302
+\mult@nat@firstbox=\box120
+\colbreak@box=\box121
+\mc@col@check@num=\count345
+)
 (C:\Users\Dinan\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
 tex.def
 File: l3backend-pdftex.def 2023-11-09 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count336
-\l__pdf_internal_box=\box76
+\l__color_backend_stack_int=\count346
+\l__pdf_internal_box=\box122
 ) (AcadRev_Physics.aux)
 \openout1 = `AcadRev_Physics.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -809,12 +882,12 @@ LaTeX Font Info:    ... okay on input line 37.
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: includehead includefoot 
-* h-part:(L,W,R)=(28.45274pt, 398.3386pt, 28.45274pt)
-* v-part:(T,H,B)=(0.0pt, 256.0748pt, 0.0pt)
-* \paperwidth=455.24408pt
-* \paperheight=256.0748pt
-* \textwidth=398.3386pt
-* \textheight=227.62207pt
+* h-part:(L,W,R)=(28.45274pt, 307.28987pt, 28.45274pt)
+* v-part:(T,H,B)=(0.0pt, 273.14662pt, 0.0pt)
+* \paperwidth=364.19536pt
+* \paperheight=273.14662pt
+* \textwidth=307.28987pt
+* \textheight=244.6939pt
 * \oddsidemargin=-43.81725pt
 * \evensidemargin=-43.81725pt
 * \topmargin=-72.26999pt
@@ -839,16 +912,16 @@ LaTeX Font Info:    ... okay on input line 37.
 (C:\Users\Dinan\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
 ii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count337
-\scratchdimen=\dimen294
-\scratchbox=\box77
-\nofMPsegments=\count338
-\nofMParguments=\count339
+\scratchcounter=\count347
+\scratchdimen=\dimen303
+\scratchbox=\box123
+\nofMPsegments=\count348
+\nofMParguments=\count349
 \everyMPshowfont=\toks46
-\MPscratchCnt=\count340
-\MPscratchDim=\dimen295
-\MPnumerator=\count341
-\makeMPintoPDFobject=\count342
+\MPscratchCnt=\count350
+\MPscratchDim=\dimen304
+\MPnumerator=\count351
+\makeMPintoPDFobject=\count352
 \everyMPtoPDFconversion=\toks47
 )
 (C:\Users\Dinan\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
@@ -861,63 +934,63 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 fg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-Package hyperref Info: Link coloring OFF on input line 37.
+Package hyperref Info: Link coloring OFF on input line 40.
  (AcadRev_Physics.out) (AcadRev_Physics.out)
 \@outlinefile=\write5
 \openout5 = `AcadRev_Physics.out'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 37.
+(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 40.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 37.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 40.
 \symnumbers=\mathgroup6
 \sympureletters=\mathgroup7
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 37.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 37.
+(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 40.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 40.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 37.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 40.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 37.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 37.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 40.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 40.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 37.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 40.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 37.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 37.
+(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 40.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 40.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 37.
+(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 40.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 37.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 37.
+(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 40.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 40.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 37.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 40.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 37.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 40.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/b/n on input line 37.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/b/n on input line 40.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  OT1/cmss/m/it --> OT1/cmss/b/it on input line 37.
+(Font)                  OT1/cmss/m/it --> OT1/cmss/b/it on input line 40.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/cmss/b/n --> OT1/cmr/b/n on input line 37.
+(Font)                  OT1/cmss/b/n --> OT1/cmr/b/n on input line 40.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmss/b/n --> OT1/cmss/b/n on input line 37.
+(Font)                  OT1/cmss/b/n --> OT1/cmss/b/n on input line 40.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/b/n on input line 37.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/b/n on input line 40.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmss/m/it --> OT1/cmss/b/it on input line 37.
+(Font)                  OT1/cmss/m/it --> OT1/cmss/b/it on input line 40.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/b/n on input line 37.
-LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 37.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/b/n on input line 40.
+LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 40.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `normal'
-(Font)                  OT1/cmss/m/it --> OT1/mathkerncmss/m/sl on input line 3
-7.
+(Font)                  OT1/cmss/m/it --> OT1/mathkerncmss/m/sl on input line 4
+0.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  OT1/cmss/b/it --> OT1/mathkerncmss/m/sl on input line 3
-7.
+(Font)                  OT1/cmss/b/it --> OT1/mathkerncmss/m/sl on input line 4
+0.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
 (Font)                  OT1/mathkerncmss/m/sl --> OT1/mathkerncmss/bx/sl on inp
-ut line 37.
+ut line 40.
 
 (C:\Users\Dinan\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator-b
 asic-dictionary-English.dict
@@ -945,38 +1018,37 @@ Dictionary: translator-theorem-dictionary, Language: English
 ) (AcadRev_Physics.nav) [1
 
 {C:/Users/Dinan/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] (AcadRev_Phy
-sics.toc) [2
-
-] [3
-
-]
-[4
-
-] [5
-
-] [6
-
-]
-LaTeX Font Info:    Trying to load font information for U+msa on input line 82.
+sics.toc)
+LaTeX Font Info:    Trying to load font information for U+msa on input line 54.
 
 
 (C:\Users\Dinan\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 82.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 54.
 
 
 (C:\Users\Dinan\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Trying to load font information for OT1+mathkerncmss on inp
-ut line 82.
+ut line 54.
 
 (C:\Users\Dinan\AppData\Local\Programs\MiKTeX\tex/latex/sansmathaccent\ot1mathk
 erncmss.fd
 File: ot1mathkerncmss.fd 2020/01/31 Fontinst v1.933 font definitions for OT1/ma
 thkerncmss.
-) [7
+) (AcadRev_Physics.toc) [2
+
+] [3
+
+] [4
+
+] [5
+
+] [6
+
+] [7
 
 ] [8
 
@@ -986,7 +1058,8 @@ thkerncmss.
 
 ] [11
 
-] [12
+]
+[12
 
 ] [13
 
@@ -997,60 +1070,52 @@ thkerncmss.
 ] [16
 
 ]
-<compvec.png, id=185, 306.14375pt x 256.96pt>
+<compvec.png, id=270, 306.14375pt x 256.96pt>
 File: compvec.png Graphic file (type png)
 <use compvec.png>
-Package pdftex.def Info: compvec.png  used on input line 140.
+Package pdftex.def Info: compvec.png  used on input line 152.
 (pdftex.def)             Requested size: 122.45532pt x 102.78217pt.
-<vectoradd.png, id=187, 273.02pt x 264.99pt>
+<vectoradd.png, id=272, 273.02pt x 264.99pt>
 File: vectoradd.png Graphic file (type png)
 <use vectoradd.png>
-Package pdftex.def Info: vectoradd.png  used on input line 140.
+Package pdftex.def Info: vectoradd.png  used on input line 152.
 (pdftex.def)             Requested size: 136.50966pt x 132.49467pt.
  [17
 
  <./compvec.png> <./vectoradd.png>]
 File: compvec.png Graphic file (type png)
 <use compvec.png>
-Package pdftex.def Info: compvec.png  used on input line 140.
+Package pdftex.def Info: compvec.png  used on input line 152.
 (pdftex.def)             Requested size: 122.45532pt x 102.78217pt.
 File: vectoradd.png Graphic file (type png)
 <use vectoradd.png>
-Package pdftex.def Info: vectoradd.png  used on input line 140.
+Package pdftex.def Info: vectoradd.png  used on input line 152.
 (pdftex.def)             Requested size: 136.50966pt x 132.49467pt.
  [18
 
 ]
-<pytha.png, id=204, 128.48pt x 158.5925pt>
+<pytha.png, id=288, 128.48pt x 158.5925pt>
 File: pytha.png Graphic file (type png)
 <use pytha.png>
-Package pdftex.def Info: pytha.png  used on input line 155.
+Package pdftex.def Info: pytha.png  used on input line 168.
 (pdftex.def)             Requested size: 38.54428pt x 47.57811pt.
-<pythaexample.png, id=205, 449.68pt x 137.51375pt>
+<pythaexample.png, id=289, 449.68pt x 137.51375pt>
 File: pythaexample.png Graphic file (type png)
 <use pythaexample.png>
-Package pdftex.def Info: pythaexample.png  used on input line 155.
+Package pdftex.def Info: pythaexample.png  used on input line 168.
 (pdftex.def)             Requested size: 134.90503pt x 41.25444pt.
-
-Overfull \vbox (0.20615pt too high) detected at line 155
- []
-
-[19
+ [19
 
  <./pytha.png> <./pythaexample.png>]
 File: pytha.png Graphic file (type png)
 <use pytha.png>
-Package pdftex.def Info: pytha.png  used on input line 155.
+Package pdftex.def Info: pytha.png  used on input line 168.
 (pdftex.def)             Requested size: 38.54428pt x 47.57811pt.
 File: pythaexample.png Graphic file (type png)
 <use pythaexample.png>
-Package pdftex.def Info: pythaexample.png  used on input line 155.
+Package pdftex.def Info: pythaexample.png  used on input line 168.
 (pdftex.def)             Requested size: 134.90503pt x 41.25444pt.
-
-Overfull \vbox (0.20615pt too high) detected at line 155
- []
-
-[20
+ [20
 
 ] [21
 
@@ -1062,11 +1127,219 @@ Overfull \vbox (0.20615pt too high) detected at line 155
 
 ] [25
 
-] [26
+]
+<distancedisp.png, id=360, 188.705pt x 109.40875pt>
+File: distancedisp.png Graphic file (type png)
+<use distancedisp.png>
+Package pdftex.def Info: distancedisp.png  used on input line 247.
+(pdftex.def)             Requested size: 113.22386pt x 65.64574pt.
+ [26
 
-] [27
+ <./distancedisp.png>]
+<distancedispquiz.png, id=368, 466.74374pt x 184.69pt>
+File: distancedispquiz.png Graphic file (type png)
+<use distancedispquiz.png>
+Package pdftex.def Info: distancedispquiz.png  used on input line 265.
+(pdftex.def)             Requested size: 186.69418pt x 73.87468pt.
 
-] [28
+Overfull \vbox (0.20415pt too high) detected at line 265
+ []
+
+[27
+
+ <./distancedispquiz.png>]
+File: distancedispquiz.png Graphic file (type png)
+<use distancedispquiz.png>
+Package pdftex.def Info: distancedispquiz.png  used on input line 265.
+(pdftex.def)             Requested size: 186.69418pt x 73.87468pt.
+
+Overfull \vbox (0.20415pt too high) detected at line 265
+ []
+
+[28
+
+]
+File: distancedispquiz.png Graphic file (type png)
+<use distancedispquiz.png>
+Package pdftex.def Info: distancedispquiz.png  used on input line 265.
+(pdftex.def)             Requested size: 186.69418pt x 73.87468pt.
+
+Overfull \vbox (0.20415pt too high) detected at line 265
+ []
+
+[29
+
+] [30
+
+] [31
+
+]
+File: distancedispquiz.png Graphic file (type png)
+<use distancedispquiz.png>
+Package pdftex.def Info: distancedispquiz.png  used on input line 304.
+(pdftex.def)             Requested size: 233.37129pt x 92.34476pt.
+ [32
+
+]
+File: distancedispquiz.png Graphic file (type png)
+<use distancedispquiz.png>
+Package pdftex.def Info: distancedispquiz.png  used on input line 304.
+(pdftex.def)             Requested size: 233.37129pt x 92.34476pt.
+ [33
+
+]
+File: distancedispquiz.png Graphic file (type png)
+<use distancedispquiz.png>
+Package pdftex.def Info: distancedispquiz.png  used on input line 304.
+(pdftex.def)             Requested size: 233.37129pt x 92.34476pt.
+ [34
+
+]
+File: distancedispquiz.png Graphic file (type png)
+<use distancedispquiz.png>
+Package pdftex.def Info: distancedispquiz.png  used on input line 304.
+(pdftex.def)             Requested size: 233.37129pt x 92.34476pt.
+ [35
+
+] [36
+
+]
+<graph.png, id=434, 963.6pt x 705.63625pt>
+File: graph.png Graphic file (type png)
+<use graph.png>
+Package pdftex.def Info: graph.png  used on input line 319.
+(pdftex.def)             Requested size: 240.89941pt x 176.40863pt.
+ [37
+
+ <./graph.png>] [38
+
+] [39
+
+] [40
+
+]
+[41
+
+] [42
+
+] [43
+
+] [44
+
+] [45
+
+] [46
+
+] [47
+
+] [48
+
+] [49
+
+] [50
+
+] [51
+
+] [52
+
+] [53
+
+] [54
+
+] [55
+
+]
+[56
+
+] [57
+
+] [58
+
+] [59
+
+] [60
+
+] [61
+
+] [62
+
+] [63
+
+] [64
+
+] [65
+
+] [66
+
+] [67
+
+] [68
+
+] [69
+
+] [70
+
+]
+[71
+
+] [72
+
+] [73
+
+] [74
+
+] [75
+
+] [76
+
+] [77
+
+] [78
+
+] [79
+
+] [80
+
+] [81
+
+] [82
+
+] [83
+
+] [84
+
+] [85
+
+]
+[86
+
+] [87
+
+] [88
+
+] [89
+
+] [90
+
+] [91
+
+] [92
+
+] [93
+
+] [94
+
+] [95
+
+] [96
+
+] [97
+
+] [98
+
+] [99
+
+] [100
 
 ]
 \tf@nav=\write6
@@ -1078,40 +1351,86 @@ Overfull \vbox (0.20615pt too high) detected at line 155
 \tf@snm=\write8
 \openout8 = `AcadRev_Physics.snm'.
 
- (AcadRev_Physics.aux)
+
+(AcadRev_Physics.aux)
  ***********
 LaTeX2e <2023-11-01>
 L3 programming layer <2023-12-08>
  ***********
-Package rerunfilecheck Info: File `AcadRev_Physics.out' has not changed.
-(rerunfilecheck)             Checksum: E8A23A9C9C4CA9020FD3C04539374D1D;989.
+
+
+Package rerunfilecheck Warning: File `AcadRev_Physics.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `AcadRev_Physics.out':
+(rerunfilecheck)             Before: DD57C2C3C5B9BECD153472CDB36AB888;2937
+(rerunfilecheck)             After:  A3C2653DC4E69E17AEC6CF83E1074F6F;2938.
  ) 
 Here is how much of TeX's memory you used:
- 21956 strings out of 474491
- 432168 string characters out of 5743833
- 1936473 words of memory out of 5000000
- 43711 multiletter control sequences out of 15000+600000
- 568406 words of font info for 73 fonts, out of 8000000 for 9000
+ 22510 strings out of 474491
+ 440352 string characters out of 5743833
+ 1942473 words of memory out of 5000000
+ 44089 multiletter control sequences out of 15000+600000
+ 570860 words of font info for 82 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 128i,15n,123p,413b,907s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/Dinan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/
-cmex10.pfb><C:/Users/Dinan/AppData/Local/Programs/MiKTeX/fonts/type1/public/ams
-fonts/cm/cmmi10.pfb><C:/Users/Dinan/AppData/Local/Programs/MiKTeX/fonts/type1/p
-ublic/amsfonts/cm/cmss10.pfb><C:/Users/Dinan/AppData/Local/Programs/MiKTeX/font
-s/type1/public/amsfonts/cm/cmss12.pfb><C:/Users/Dinan/AppData/Local/Programs/Mi
-KTeX/fonts/type1/public/amsfonts/cm/cmss8.pfb><C:/Users/Dinan/AppData/Local/Pro
-grams/MiKTeX/fonts/type1/public/amsfonts/cm/cmss9.pfb><C:/Users/Dinan/AppData/L
-ocal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Users/Dina
-n/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssi10.pfb><C:/
-Users/Dinan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssi8
-.pfb><C:/Users/Dinan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/
-cm/cmssi9.pfb><C:/Users/Dinan/AppData/Local/Programs/MiKTeX/fonts/type1/public/
-amsfonts/cm/cmsy10.pfb><C:/Users/Dinan/AppData/Local/Programs/MiKTeX/fonts/type
-1/public/amsfonts/cm/cmsy6.pfb><C:/Users/Dinan/AppData/Local/Programs/MiKTeX/fo
-nts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on AcadRev_Physics.pdf (28 pages, 213163 bytes).
+ 128i,22n,123p,431b,907s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+pdfTeX warning (dest): name{Outline0.5.3.95} has been referenced but does not e
+xist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Outline0.5.2.93} has been referenced but does not e
+xist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Outline0.5.1.90} has been referenced but does not e
+xist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Outline0.4.2.85} has been referenced but does not e
+xist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Outline0.4.1.83} has been referenced but does not e
+xist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Outline0.3.3.80} has been referenced but does not e
+xist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Outline0.3.2.77} has been referenced but does not e
+xist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Outline0.3.1.76} has been referenced but does not e
+xist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Outline0.2.6.66} has been referenced but does not e
+xist, replaced by a fixed one
+
+<C:/Users/Dinan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cm
+ex10.pfb><C:/Users/Dinan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfo
+nts/cm/cmmi10.pfb><C:/Users/Dinan/AppData/Local/Programs/MiKTeX/fonts/type1/pub
+lic/amsfonts/cm/cmss10.pfb><C:/Users/Dinan/AppData/Local/Programs/MiKTeX/fonts/
+type1/public/amsfonts/cm/cmss12.pfb><C:/Users/Dinan/AppData/Local/Programs/MiKT
+eX/fonts/type1/public/amsfonts/cm/cmss8.pfb><C:/Users/Dinan/AppData/Local/Progr
+ams/MiKTeX/fonts/type1/public/amsfonts/cm/cmss9.pfb><C:/Users/Dinan/AppData/Loc
+al/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Users/Dinan/
+AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssi10.pfb><C:/Us
+ers/Dinan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssi8.p
+fb><C:/Users/Dinan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm
+/cmssi9.pfb><C:/Users/Dinan/AppData/Local/Programs/MiKTeX/fonts/type1/public/am
+sfonts/cm/cmsy10.pfb><C:/Users/Dinan/AppData/Local/Programs/MiKTeX/fonts/type1/
+public/amsfonts/cm/cmsy6.pfb><C:/Users/Dinan/AppData/Local/Programs/MiKTeX/font
+s/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/Dinan/AppData/Local/Programs/MiK
+TeX/fonts/type1/public/amsfonts/latxfont/line10.pfb><C:/Users/Dinan/AppData/Loc
+al/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msam10.pfb>
+Output written on AcadRev_Physics.pdf (100 pages, 447985 bytes).
 PDF statistics:
- 395 PDF objects out of 1000 (max. 8388607)
- 64 named destinations out of 1000 (max. 500000)
- 305 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1024 PDF objects out of 1200 (max. 8388607)
+ 231 named destinations out of 1000 (max. 500000)
+ 444 words of extra memory for PDF output out of 10000 (max. 10000000)
 
