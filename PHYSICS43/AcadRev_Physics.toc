@@ -1,7 +1,0 @@
-\beamer@sectionintoc {1}{Scalar and Vector}{6}{0}{1}
-\beamer@subsectionintoc {1}{1}{Scalar and Vector}{7}{0}{1}
-\beamer@subsectionintoc {1}{2}{Resultant Vector}{15}{0}{1}
-\beamer@sectionintoc {2}{Mechanics}{24}{0}{2}
-\beamer@sectionintoc {3}{Newton's Law of Motion}{26}{0}{3}
-\beamer@sectionintoc {4}{Momentum and Impulse}{27}{0}{4}
-\beamer@sectionintoc {5}{Work, Energy, and Power}{28}{0}{5}
